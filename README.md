@@ -23,20 +23,24 @@ Starting from week 5 (April 3),
 topic presentations starts; Each presentation takes 25 minutes and 15
 minutes questions/answers. 
 
+
 Date      | Slot       | Team      | Presenters       | Topic
 ------ | ------ | ------- | ----------- | -----
-04/03   |  1          | Fighters    | 罗大佑；李宗盛；周华健；张震岳 | The latest paper from Songxi Chen's group  
-04/03   |  2          | Brilliant     | 周杰伦；方文山  | Using the eSIR package from Song's lab  
-04/04   |  3          | Team Ace  | 张学友；刘德华；黎明；郭富城 | Basics of ROC curves  
-04/03	 |  4          | Guo           | 郭破虏；郭襄；郭芙蓉；郭靖  ｜Prevention of epidemics in Xiangyang  
+04/03   |  1          | Fighters    | 罗大佑；李宗盛；周华健；张震岳 | The latest paper from Songxi Chen's group
+04/03   |  2          | Brilliant     | 周杰伦；方文山  | Using the eSIR package from Song's lab
+04/04   |  3          | Team Ace  | 张学友；刘德华；黎明；郭富城   | Basics of ROC curves
+04/03	 |  4          | Guo           | 郭破虏；郭襄；郭芙蓉；郭靖      | Prevention of epidemics in Xiangyang
+
 
 Starting from week 7 (April 17),
-two of the slots will be used for project progress report. For example:
+two of the slots will be used for project progress report.
+
 
 Date      | Slot       | Team      | Presenters       | Topic
 ------ | ------ | ------- | ----------- | -----
-04/17   |  1          | Fighters     | 罗大佑；李宗盛；周华健；张震岳 | Project Progress: On Estimation of the Incubation Period  
-             |  2          |               |                         |  
-			 |  3          |               |                         |  
-			 |  4          |               |                         |  
+04/17   |  1          | Fighters     | 罗大佑；李宗盛；周华健；张震岳 | Project Progress: On Estimation of the Incubation Period
+04/17   |  2          |               |                         |
+04/17	 |  3          |               |                         | 
+04/17   |  4          |               |                         |
+
 
