@@ -16,6 +16,7 @@ This repository contains materials for the class of Spring 2020.
 	- Each team needs to sign up for two slots: one for topic
       presentation and the other for project progress.
 	- The sign up period includes week 5 to week 10
+	- See an introduction on [how to make a pull request](https://www.toutiao.com/i6802407179866341891/).
 
 Here is a template for the sheet. 
 
