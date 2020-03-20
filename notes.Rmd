@@ -1,0 +1,64 @@
+--- 
+title: "Data Science in Action During an Pandemic, Spring 2020"
+author: "Jun Yan"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [stco.bib, book.bib, packages.bib]
+biblio-style: chicago
+link-citations: yes
+description: "This is a series of notes for the students of 
+  a seminar course taught at School of Statistics, SXUFE."
+---
+
+# 03/06
+
+1. Going over the syllabus
+1. Project management
+   + Grouping
+   + Member contributions
+1. Presentation management
+   + Sign up sheet?
+1. Project ideas
+   + Number of deaths due to COVID-19
+   + Times series of historical data
+   + Application and extension of eSIR
+1. On Git and GitHub
+   + It's a great tool
+   + Not hard to pick up as long as you keep using it
+   + Not that easy either
+
+# 03/13
+
+1. Questions from Git exercises
+1. Demo Git clone, reproducible work, and contributions
+   + Zhang, Yan (Chinese file name; location of working directory)
+   + Xiao, Shiying
+   + Jiao, Jieying
+1. Building the Bookdown book from source
+1. Discussion of Song's work (possible projects)
+1. Logistics
+   + Form teams
+   + Sharpen skills
+   + Identifying research questions
+   + Find data
+   + Proposal is due by week 5
+1. Webinar and conference
+
+# 03/20
+
+1. Git issues; pull request
+1. Demo from Shiying Xiao
+1. Points of the building from source
+    + It's the learning process that is of importance
+	+ Search the error message
+1. Logistics
+    + Form teams
+	    - Team leader
+		- Team name
+	+ Sign up
+	+ Topic presentation resources
+	    - arXiv; bioRXiv, medRXiv
+		- Statistics Forum
+	+ Time (lecture, study, and research)
+1. A case study: ABO blood type and COVID-19
